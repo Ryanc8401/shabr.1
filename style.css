@@ -1,0 +1,61 @@
+.body {
+    background-color: black;
+}
+div {
+    /*border: 1px dashed red;*/
+    text-align: center;
+    font-family: 'Khula', sans-serif;
+    border: black;
+
+
+}
+.pic {
+      width: 50vw;
+}
+
+.container {
+    margin-top: 30vh;
+    margin-bottom: 30vh;
+}
+
+.col-sm {
+    margin-top: 5vw;
+    margin-bottom: 5vh;
+    font-size: 18px;
+}
+
+
+h1 {
+    background-color: grey;
+}
+
+
+@media (min-width: 576px) {
+    div {
+        font-size: 26px;
+    
+    }
+}
+
+
+@media (min-width: 768px) {
+    div {
+        font-size: 22px;
+    
+    }
+}
+
+
+
+@media (min-width: 992px) {
+    div {
+        font-size: 18px;
+    
+    }
+}    
+
+
+#Testimonials {
+    border: 1px black;
+    
+}
